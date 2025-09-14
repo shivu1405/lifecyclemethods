@@ -135,6 +135,7 @@ activitymain.xml:
 ![resune](https://github.com/user-attachments/assets/e1ffa9fd-3601-48bf-9694-e9694ec0dc37)
 
 4.OnRestart Executed:
+<img width="1549" height="969" alt="image" src="https://github.com/user-attachments/assets/be96f807-430b-4485-9c2f-9e33f2a519e3" />
 
 
 5.OnStart Executed:
